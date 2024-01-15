@@ -8,7 +8,10 @@ crafting theradio.fm and other artefacts
 /dev
 null
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/martinmyburgh) 
+### me
+### [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/martinmyburgh) 
+
+### social
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/freetheradio) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@theradiostream) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamanamoeba) 
