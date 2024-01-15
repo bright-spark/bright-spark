@@ -8,12 +8,18 @@ crafting theradio.fm and other artefacts
 /dev
 null
 
-### me [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/martinmyburgh) 
+### thoughts
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/martinmyburgh) 
 
 ### social
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/freetheradio) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@theradiostream) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamanamoeba) 
+
+mmm music
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@theradiostream) 
+
+### pins
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/freetheradio) 
+
 
 ### [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/martinmyburgh)
 
