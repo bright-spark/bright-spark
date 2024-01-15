@@ -1,4 +1,4 @@
-# Martin Myburgh [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/bright-spark) 
+martin. [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/bright-spark) 
 
 innovative thinker making digital creations at a global scale
 crafting theradio.fm and other artefacts 
